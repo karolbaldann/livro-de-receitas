@@ -5,3 +5,5 @@ Este repositório contém um livro de receitas criado para aprender Git e Markdo
 ##  Sumário.
 
 ### [Torta de Frango](/workspaces/livro-de-receitas/receitas/torta.md)
+### [Brigadeiro](/workspaces/livro-de-receitas/receitas/brigadeiro.md)
+### [Suco](/workspaces/livro-de-receitas/receitas/suco.md)
